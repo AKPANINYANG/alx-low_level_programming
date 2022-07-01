@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
-*
-*main- Serves as the entry point for the program
+*main: Serves as the entry point for the program
 *
 *
 *
