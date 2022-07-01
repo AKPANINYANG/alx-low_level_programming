@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 /**
-*this is a short description
 *main: Serves as the entry point for the program
 *
 *
