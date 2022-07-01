@@ -2,7 +2,7 @@
 
 /**
 
-*main-entry point for the program.
+*main - Entry point
 
 *
 
