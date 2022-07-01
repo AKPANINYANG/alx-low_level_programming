@@ -3,13 +3,9 @@
 #include <time.h>
 
 /**
-
 *main - Entry point.
-
 *
-
 *Return: 0-no error, non-zero value if errors.
-
 */
 
 int main(void)
